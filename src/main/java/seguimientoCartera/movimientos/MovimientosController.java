@@ -68,4 +68,5 @@ public class MovimientosController {
 	public List<Movimiento> list() {
 		return moviService.listAll();
 	}
+	//asd
 }
